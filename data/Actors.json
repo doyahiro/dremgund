@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"アメリ","characterIndex":0,"characterName":"アメリ","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"アメリ","traits":[],"initialLevel":1,"maxLevel":99,"name":"アメリ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"レナ","characterIndex":0,"characterName":"レナ","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"レナ","traits":[],"initialLevel":1,"maxLevel":99,"name":"レナ","nickname":"","note":"","profile":""}
+]
