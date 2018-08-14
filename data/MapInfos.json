@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"図書館１階","order":1,"parentId":0,"scrollX":1217,"scrollY":1336.5},
+{"id":1,"expanded":true,"name":"図書館１階","order":1,"parentId":0,"scrollX":1336,"scrollY":1849},
 {"id":2,"expanded":true,"name":"サンプル","order":2,"parentId":0,"scrollX":1178.3999999999999,"scrollY":853.1999999999999},
 {"id":3,"expanded":true,"name":"ホテル1F","order":3,"parentId":2,"scrollX":1197.6,"scrollY":872.4},
 {"id":4,"expanded":true,"name":"ホテル2F","order":4,"parentId":3,"scrollX":648.8,"scrollY":1043.6},
