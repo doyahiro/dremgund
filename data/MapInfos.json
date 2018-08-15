@@ -1,12 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"図書館１階","order":1,"parentId":0,"scrollX":1336,"scrollY":1849},
-{"id":2,"expanded":true,"name":"サンプル","order":2,"parentId":0,"scrollX":1178.3999999999999,"scrollY":853.1999999999999},
-{"id":3,"expanded":true,"name":"ホテル1F","order":3,"parentId":2,"scrollX":1197.6,"scrollY":872.4},
-{"id":4,"expanded":true,"name":"ホテル2F","order":4,"parentId":3,"scrollX":648.8,"scrollY":1043.6},
-{"id":5,"expanded":true,"name":"オフィス1F","order":5,"parentId":4,"scrollX":743.2,"scrollY":1043.6},
-{"id":6,"expanded":true,"name":"武器屋","order":6,"parentId":5,"scrollX":655.2,"scrollY":402.8},
-{"id":7,"expanded":true,"name":"防具屋","order":7,"parentId":6,"scrollX":655.2,"scrollY":402.8},
-{"id":8,"expanded":true,"name":"道具屋","order":8,"parentId":7,"scrollX":655.2,"scrollY":402.8},
-{"id":9,"expanded":false,"name":"宿屋1F","order":9,"parentId":8,"scrollX":648.8,"scrollY":402.8}
+{"id":1,"expanded":true,"name":"図書館１階ver4頭身","order":1,"parentId":0,"scrollX":1340.5714285714284,"scrollY":1309.7142857142856},
+{"id":2,"expanded":true,"name":"サンプル","order":2,"parentId":0,"scrollX":1177.7142857142856,"scrollY":853.7142857142857},
+{"id":3,"expanded":true,"name":"図書館１階","order":3,"parentId":0,"scrollX":1340.5714285714284,"scrollY":1309.7142857142856}
 ]
